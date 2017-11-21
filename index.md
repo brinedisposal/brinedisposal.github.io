@@ -1,6 +1,5 @@
-##An Introduction to AHT Solutions, LLC
-###and the application of our
-FBHX Technology to Brine Concentrator Systems 
+##An Introduction to AHT Solutions, LLC##
+###and the application of our FBHX Technology to Brine Concentrator Systems###
 
 Today, the Oil & Gas Industry is faced with an exceptional opportunity to pursue **Energy Independence** in conjunction with the pursuit of an untapped and abundant **supply of water**.    AHT Solutions, LLC is determined to locate an adequately funded Partner to **team-up** with on a **Path** to **Energy Independence** and convert that **Path** to an **Expressway** for the abundant supply of both **Energy and Water**.
 
