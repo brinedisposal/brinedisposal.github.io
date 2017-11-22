@@ -6,9 +6,9 @@ Today, the Oil & Gas Industry is faced with an exceptional opportunity to purs
 
 We **welcome** your interest in a technology that has the potential of turning brine disposal problems into environmentally sound **Water Resource Recovery Projects**.  
 
-
 This photo may be _worth a thousand words_.  We will try to be brief.
-[bottle photo]
+[bottle photo]  
+
 
 **Our Breakthrough Technology** recovered a potable water resource from a West Texas drilling company’s exceptionally high salinity brine and the photo from recent Test & Demo Operations reveals its potential.  
 
